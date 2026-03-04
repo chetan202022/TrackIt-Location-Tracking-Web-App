@@ -35,16 +35,18 @@ node app.js
 
 ```
 .
-├── README.md
-├── package.json
+├── node_modules
 ├── public
 │   ├── css
 │   │   └── style.css
-│   ├── index.html
 │   └── js
 │       └── script.js
+├── views
+│   └── index.ejs
+├── README.md
 ├── app.js
-└── package-lock.json
+├── package-lock.json
+└── package.json
 ```
 
 ## Usage
